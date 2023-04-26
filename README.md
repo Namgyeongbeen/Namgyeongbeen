@@ -4,7 +4,6 @@
 [![*'s github stats](https://github-readme-stats.vercel.app/api?username=Namgyeongbeen&show_icons=true&theme=radical)](https://github.com/Namgyeongbeen)
 
 
-[![*'s github stats](https://github-readme-stats.vercel.app/api?username=Namgyeongbeen)](https://github.com/Namgyeongbeen)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Namgyeongbeen)](https://github.com/Namgyeongbeen/github-readme-stats)
